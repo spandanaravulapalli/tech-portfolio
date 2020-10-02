@@ -67,8 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'https://www.linkedin.com/in/spandanaravulapalli/',
-        twitter: '',
+        linkedin: 'spandanaravulapalli',
         github: 'https://github.com/spandanaravulapalli',
     },
 
